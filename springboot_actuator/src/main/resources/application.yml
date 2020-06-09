@@ -1,0 +1,13 @@
+server:
+  port: 8090
+info:
+  name: heima118
+  class: springboot
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: "*"

@@ -1,0 +1,18 @@
+heima118:
+  redis:
+    port: 6379
+
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:8088
+
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: "*"

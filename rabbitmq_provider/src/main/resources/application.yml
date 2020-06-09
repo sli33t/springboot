@@ -1,0 +1,12 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    username: admin
+    password: admin
+    virtual-host: heima118
+    port: 5672
+
+
+server:
+  port: 8080
+

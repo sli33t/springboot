@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rabbitmq_consumer" />
+        <module name="rabbitmq_provider" />
+        <module name="redis-spring-boot-autoconfigure" />
+        <module name="redis-spring-boot-starter" />
+        <module name="springboot_actuator" />
+        <module name="springboot_admin" />
+        <module name="springboot_condition" />
+        <module name="springboot_enable" />
+        <module name="springboot_enable_other" />
+        <module name="springboot_myredis" />
+        <module name="springboot_package" />
+        <module name="springboot_package1" />
+        <module name="springboot_redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rabbitmq_consumer" target="1.8" />
+      <module name="rabbitmq_provider" target="1.8" />
+      <module name="redis-spring-boot-autoconfigure" target="1.8" />
+      <module name="redis-spring-boot-starter" target="1.5" />
+      <module name="springboot_actuator" target="1.8" />
+      <module name="springboot_admin" target="1.8" />
+      <module name="springboot_condition" target="1.8" />
+      <module name="springboot_enable" target="1.8" />
+      <module name="springboot_enable_other" target="1.8" />
+      <module name="springboot_myredis" target="1.8" />
+      <module name="springboot_package" target="1.8" />
+      <module name="springboot_package1" target="1.8" />
+      <module name="springboot_redis" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

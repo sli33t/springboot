@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot_package" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rabbitmq_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_condition/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_enable/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_enable_other/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-spring-boot-autoconfigure/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_myredis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_admin/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_package/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_package1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
